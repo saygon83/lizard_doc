@@ -28,8 +28,8 @@ theme: # Тема сайта, информация о ее параметрах
       toggle:
         icon: material/weather-sunny # Иконка для активации светлой темы
         name: Выключить солнышко # Всплывающий текст-подсказка
-      primary: blue # Основной цвет
-      accent: purple # Акцентный цвет
+      primary: red # Основной цвет
+      accent: deep red # Акцентный цвет
     # Настройки тёмной темы
     - scheme: slate
       toggle:
